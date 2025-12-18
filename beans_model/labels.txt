@@ -1,0 +1,10 @@
+0 Adzuki Bean
+1 Black Beans
+2 Garbanzo Bea...
+3 Green Bean
+4 Kidney Beans
+5 Lima Bean
+6 Mung Bean
+7 Navy Bean
+8 Pinto Beans
+9 Soy Beans
