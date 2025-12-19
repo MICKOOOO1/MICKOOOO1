@@ -244,8 +244,14 @@ This screen presents more detailed analytics, including confidence distribution 
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/me.cku)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/deobert.paquio.5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mickmickengalan123@gmail.com)
-
-
+<p align="center">
+  <a href="https://instagram.com/me.cku">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://facebook.com/deobert.paquio.5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="mailto:mickmickengalan123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
