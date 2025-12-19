@@ -78,79 +78,76 @@ This project allowed me to practice Flutter UI design, basic machine learning in
 ## 🫘 Beans Classes Overview
 
 Below is an overview of the **Beans classes** that Beans Scan can recognize.  
-Each class includes a short description and a sample image from the `Beans_class` folder.
+Each row shows the bean class name, a short description, and a sample image from the `Beans_class` folder.
 
 <table>
 <tr>
-<td align="center">
-<img src="Beans_class/Adzuki_Bean.png" width="150"/><br>
-<b>Adzuki Beans</b><br>
-Small red beans commonly used in Asian desserts and sweet dishes.
-</td>
-
-<td align="center">
-<img src="Beans_class/Black_Beans.png" width="150"/><br>
-<b>Black Beans</b><br>
-Dark-colored beans rich in protein and fiber, often used in soups and stews.
-</td>
+<th>Bean Class</th>
+<th>Description</th>
+<th>Sample Image</th>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Beans_class/Garbanzo_Beans.png" width="150"/><br>
-<b>Garbanzo Beans</b><br>
-Also known as chickpeas, widely used in hummus and Mediterranean dishes.
-</td>
-
-<td align="center">
-<img src="Beans_class/Green_Beans.png" width="150"/><br>
-<b>Green Beans</b><br>
-Fresh and crunchy beans commonly used as vegetables in meals.
-</td>
+<td><b>Adzuki Beans</b></td>
+<td>Small red beans commonly used in Asian desserts and sweet dishes.</td>
+<td align="center"><img src="Beans_class/Adzuki_Bean.png" width="120"/></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Beans_class/Kidney_Beans.png" width="150"/><br>
-<b>Kidney Beans</b><br>
-Red kidney-shaped beans often used in chili and rice dishes.
-</td>
-
-<td align="center">
-<img src="Beans_class/Lima_beans.jpg" width="150"/><br>
-<b>Lima Beans</b><br>
-Flat and pale beans known for their creamy texture.
-</td>
+<td><b>Black Beans</b></td>
+<td>Dark-colored beans rich in protein and fiber, often used in soups and stews.</td>
+<td align="center"><img src="Beans_class/Black_Beans.png" width="120"/></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Beans_class/Mung_beans.png" width="150"/><br>
-<b>Mung Beans</b><br>
-Small green beans commonly used in Asian cuisine and desserts.
-</td>
-
-<td align="center">
-<img src="Beans_class/Navy_Beans.png" width="150"/><br>
-<b>Navy Beans</b><br>
-Small white beans often used in baked beans and soups.
-</td>
+<td><b>Garbanzo Beans</b></td>
+<td>Also known as chickpeas, widely used in hummus and Mediterranean dishes.</td>
+<td align="center"><img src="Beans_class/Garbanzo_Beans.png" width="120"/></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Beans_class/Pinto_Beans.png" width="150"/><br>
-<b>Pinto Beans</b><br>
-Spotted beans commonly used in Mexican and Latin American dishes.
-</td>
+<td><b>Green Beans</b></td>
+<td>Fresh and crunchy beans commonly used as vegetables in meals.</td>
+<td align="center"><img src="Beans_class/Green_Beans.png" width="120"/></td>
+</tr>
 
-<td align="center">
-<img src="Beans_class/Soy_Beans.png" width="150"/><br>
-<b>Soy Beans</b><br>
-Beans widely used for tofu, soy milk, and other soy products.
-</td>
+<tr>
+<td><b>Kidney Beans</b></td>
+<td>Red kidney-shaped beans often used in chili and rice dishes.</td>
+<td align="center"><img src="Beans_class/Kidney_Beans.png" width="120"/></td>
+</tr>
+
+<tr>
+<td><b>Lima Beans</b></td>
+<td>Flat and pale beans known for their creamy texture.</td>
+<td align="center"><img src="Beans_class/Lima_beans.jpg" width="120"/></td>
+</tr>
+
+<tr>
+<td><b>Mung Beans</b></td>
+<td>Small green beans commonly used in Asian cuisine and desserts.</td>
+<td align="center"><img src="Beans_class/Mung_beans.png" width="120"/></td>
+</tr>
+
+<tr>
+<td><b>Navy Beans</b></td>
+<td>Small white beans often used in baked beans and soups.</td>
+<td align="center"><img src="Beans_class/Navy_Beans.png" width="120"/></td>
+</tr>
+
+<tr>
+<td><b>Pinto Beans</b></td>
+<td>Spotted beans commonly used in Mexican and Latin American dishes.</td>
+<td align="center"><img src="Beans_class/Pinto_Beans.png" width="120"/></td>
+</tr>
+
+<tr>
+<td><b>Soy Beans</b></td>
+<td>Beans widely used for tofu, soy milk, and other soy products.</td>
+<td align="center"><img src="Beans_class/Soy_Beans.png" width="120"/></td>
 </tr>
 </table>
+>
 
 ## 📱 Application Screenshots
 
