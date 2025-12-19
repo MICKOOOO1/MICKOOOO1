@@ -179,14 +179,13 @@ Beans widely used for tofu, soy milk, and other soy products.
 
 </tr>
 <td align="center">
-<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
+<img src="apps_screenshot/scan_result_1.jpg" width="300"/><br>
 <b>Scan Result</b>
 </td>
-</tr>
 
-</tr>
+
 <td align="center">
-<img src="apps_screenshot/scan_result_1.jpg" width="300"/><br>
+<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
 <b>Scan Result</b>
 </td>
 </tr>
