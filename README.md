@@ -168,18 +168,6 @@ Beans widely used for tofu, soy milk, and other soy products.
 <table>
 <tr>
 <td align="center">
-<img src="apps_screenshot/Analytics_1.jpg" width="300"/><br>
-<b>Analytics Page 1</b>
-</td>
-
-<td align="center">
-<img src="apps_screenshot/Analytics_2.jpg" width="300"/><br>
-<b>Analytics Page 2</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
 <img src="apps_screenshot/camera.jpg" width="300"/><br>
 <b>Camera Screen</b>
 </td>
@@ -187,6 +175,19 @@ Beans widely used for tofu, soy milk, and other soy products.
 <td align="center">
 <img src="apps_screenshot/gallery.jpg" width="300"/><br>
 <b>Gallery Upload</b>
+</td>
+
+</tr>
+<td align="center">
+<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
+<b>Scan Result</b>
+</td>
+</tr>
+
+</tr>
+<td align="center">
+<img src="apps_screenshot/scan_result_1.jpg" width="300"/><br>
+<b>Scan Result</b>
 </td>
 </tr>
 
@@ -196,12 +197,19 @@ Beans widely used for tofu, soy milk, and other soy products.
 <b>History Page</b>
 </td>
 
+<tr>
 <td align="center">
-<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
-<b>Scan Result</b>
+<img src="apps_screenshot/Analytics_1.jpg" width="300"/><br>
+<b>Analytics Page 1</b>
+</td>
+
+<td align="center">
+<img src="apps_screenshot/Analytics_2.jpg" width="300"/><br>
+<b>Analytics Page 2</b>
 </td>
 </tr>
 </table>
+
 
 ## 🛠 Project Structure
 
