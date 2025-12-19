@@ -75,31 +75,89 @@ After scanning, the app displays:
 This project allowed me to practice Flutter UI design, basic machine learning integration, and organizing app features into a clean and user-friendly interface.
 
 ---
-
 ## 🫘 Beans Classes Overview
 
-Below is a quick overview of the **Beans classes** that Beans Scan can recognize.  
-The sample images are located in the `Beans_class` folder.
+Below is an overview of the **Beans classes** that Beans Scan can recognize.  
+Each class includes a short description and a sample image from the `Beans_class` folder.
 
-| Bean Class | Sample |
-|-----------|--------|
-| Adzuki Beans | ![](Beans_class/Adzuki_Bean.png) |
-| Black Beans | ![](Beans_class/Black_Beans.png) |
-| Garbanzo Beans | ![](Beans_class/Garbanzo_Beans.png) |
-| Green Beans | ![](Beans_class/Green_Beans.png) |
-| Kidney Beans | ![](Beans_class/Kidney_Beans.png) |
-| Lima Beans | ![](Beans_class/Lima_beans.jpg) |
-| Mung Beans | ![](Beans_class/Mung_beans.png) |
-| Navy Beans | ![](Beans_class/Navy_Beans.png) |
-| Pinto Beans | ![](Beans_class/Pinto_Beans.png) |
-| Soy Beans | ![](Beans_class/Soy_Beans.png) |
+<table>
+<tr>
+<td align="center">
+<img src="Beans_class/Adzuki_Bean.png" width="150"/><br>
+<b>Adzuki Beans</b><br>
+Small red beans commonly used in Asian desserts and sweet dishes.
+</td>
 
----
+<td align="center">
+<img src="Beans_class/Black_Beans.png" width="150"/><br>
+<b>Black Beans</b><br>
+Dark-colored beans rich in protein and fiber, often used in soups and stews.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Beans_class/Garbanzo_Beans.png" width="150"/><br>
+<b>Garbanzo Beans</b><br>
+Also known as chickpeas, widely used in hummus and Mediterranean dishes.
+</td>
+
+<td align="center">
+<img src="Beans_class/Green_Beans.png" width="150"/><br>
+<b>Green Beans</b><br>
+Fresh and crunchy beans commonly used as vegetables in meals.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Beans_class/Kidney_Beans.png" width="150"/><br>
+<b>Kidney Beans</b><br>
+Red kidney-shaped beans often used in chili and rice dishes.
+</td>
+
+<td align="center">
+<img src="Beans_class/Lima_beans.jpg" width="150"/><br>
+<b>Lima Beans</b><br>
+Flat and pale beans known for their creamy texture.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Beans_class/Mung_beans.png" width="150"/><br>
+<b>Mung Beans</b><br>
+Small green beans commonly used in Asian cuisine and desserts.
+</td>
+
+<td align="center">
+<img src="Beans_class/Navy_Beans.png" width="150"/><br>
+<b>Navy Beans</b><br>
+Small white beans often used in baked beans and soups.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Beans_class/Pinto_Beans.png" width="150"/><br>
+<b>Pinto Beans</b><br>
+Spotted beans commonly used in Mexican and Latin American dishes.
+</td>
+
+<td align="center">
+<img src="Beans_class/Soy_Beans.png" width="150"/><br>
+<b>Soy Beans</b><br>
+Beans widely used for tofu, soy milk, and other soy products.
+</td>
+</tr>
+</table>
 
 ## 📱 Application Screenshots
 
 ### Main Page
-![](apps_screenshot/main_page.jpg)
+<p align="center">
+<img src="apps_screenshot/main_page.jpg" width="300"/>
+</p>
 
 **The Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Beans Scan.
 
@@ -107,16 +165,43 @@ The sample images are located in the `Beans_class` folder.
 
 ### Other Screens
 
-| Feature | Screenshot |
-|--------|-----------|
-| Analytics Page 1 | ![](apps_screenshot/Analytics_1.jpg) |
-| Analytics Page 2 | ![](apps_screenshot/Analytics_2.jpg) |
-| Camera Screen | ![](apps_screenshot/camera.jpg) |
-| Gallery Upload | ![](apps_screenshot/gallery.jpg) |
-| History Page | ![](apps_screenshot/history.jpg) |
-| Scan Result | ![](apps_screenshot/scan_result.jpg) |
+<table>
+<tr>
+<td align="center">
+<img src="apps_screenshot/Analytics_1.jpg" width="300"/><br>
+<b>Analytics Page 1</b>
+</td>
 
----
+<td align="center">
+<img src="apps_screenshot/Analytics_2.jpg" width="300"/><br>
+<b>Analytics Page 2</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="apps_screenshot/camera.jpg" width="300"/><br>
+<b>Camera Screen</b>
+</td>
+
+<td align="center">
+<img src="apps_screenshot/gallery.jpg" width="300"/><br>
+<b>Gallery Upload</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="apps_screenshot/history.jpg" width="300"/><br>
+<b>History Page</b>
+</td>
+
+<td align="center">
+<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
+<b>Scan Result</b>
+</td>
+</tr>
+</table>
 
 ## 🛠 Project Structure
 
