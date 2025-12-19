@@ -42,3 +42,88 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MICKOOOO1&show_icons=true&theme=radical)
+
+---
+
+## 📌 Featured Project: Beans Scan (Flutter App)
+
+### 📖 About This Repository
+Your GitHub profile is your overall account where all of your projects are stored. Inside your GitHub profile, you can create different repositories for different projects.
+
+This repository represents **one specific project** inside my GitHub account and serves as the **final project** for my Information Technology coursework.
+
+The **README.md** file explains what the project is about, how it is organized, and what features the application provides.  
+Inside this project, you will find folders for codes, screenshots, models, and class samples. This structure reflects how GitHub repositories are typically designed.
+
+---
+
+## 🌱 Current Project: Beans Scan
+
+**Beans Scan** is a mobile application developed using **Flutter**.  
+It is a simple **beans image classification app** that helps users identify different types of beans using a trained image recognition model.
+
+The app allows users to:
+- 📷 Take a photo using the camera
+- 🖼 Upload an existing image from the gallery
+
+After scanning, the app displays:
+- The predicted bean class
+- Confidence percentages
+- Analytics such as detections per class
+- A history of previous scans
+
+This project allowed me to practice Flutter UI design, basic machine learning integration, and organizing app features into a clean and user-friendly interface.
+
+---
+
+## 🫘 Beans Classes Overview
+
+Below is a quick overview of the **Beans classes** that Beans Scan can recognize.  
+The sample images are located in the `Beans_class` folder.
+
+| Bean Class | Sample |
+|-----------|--------|
+| Adzuki Beans | ![](Beans_class/Adzuki_Bean.png) |
+| Black Beans | ![](Beans_class/Black_Beans.png) |
+| Garbanzo Beans | ![](Beans_class/Garbanzo_Beans.png) |
+| Green Beans | ![](Beans_class/Green_Beans.png) |
+| Kidney Beans | ![](Beans_class/Kidney_Beans.png) |
+| Lima Beans | ![](Beans_class/Lima_beans.jpg) |
+| Mung Beans | ![](Beans_class/Mung_beans.png) |
+| Navy Beans | ![](Beans_class/Navy_Beans.png) |
+| Pinto Beans | ![](Beans_class/Pinto_Beans.png) |
+| Soy Beans | ![](Beans_class/Soy_Beans.png) |
+
+---
+
+## 📱 Application Screenshots
+
+### Main Page
+![](apps_screenshot/main_page.jpg)
+
+**The Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Beans Scan.
+
+---
+
+### Other Screens
+
+| Feature | Screenshot |
+|--------|-----------|
+| Analytics Page 1 | ![](apps_screenshot/Analytics_1.jpg) |
+| Analytics Page 2 | ![](apps_screenshot/Analytics_2.jpg) |
+| Camera Screen | ![](apps_screenshot/camera.jpg) |
+| Gallery Upload | ![](apps_screenshot/gallery.jpg) |
+| History Page | ![](apps_screenshot/history.jpg) |
+| Scan Result | ![](apps_screenshot/scan_result.jpg) |
+
+---
+
+## 🛠 Project Structure
+
+```text
+Beans_class/            → Sample images of beans classes
+Beans_scanner(codes)/   → Application source codes
+beans_model/            → TFLite model and label files
+apps_screenshot/        → App screenshots
+README.md               → Project documentation
+
