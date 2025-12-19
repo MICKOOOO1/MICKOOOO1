@@ -232,14 +232,21 @@ This screen presents more detailed analytics, including confidence distribution 
 </tr>
 </table>
 
+## 🚀 Key Features Summary
 
+| Feature | Description |
+|--------|-------------|
+| Image Capture & Upload | Users can either take a new picture of a bean using the camera or choose an existing photo from their gallery as input for classification. |
+| Bean Class Recognition | The app runs an image classification model to predict which bean class the sample belongs to, based on the supported classes in the built-in dictionary. |
+| Confidence-Based Results | Each scan displays confidence values for the detected class, helping users understand how certain the model is about its prediction. |
+| Interactive Bean Dictionary | A reference section where users can browse the available bean classes, view their images, and read short descriptions before or after scanning. |
+| Usage Analytics | Analytics and detections-per-class charts provide an overview of which beans are scanned the most and how the model has been used over time. |
+| Scan History | The app keeps a record of previous scans, showing the detected class, confidence level, and timestamp so users can revisit earlier results. |
 
-## 🛠 Project Structure
+## 🌐 Connect With Me
 
-```text
-Beans_class/            → Sample images of beans classes
-Beans_scanner(codes)/   → Application source codes
-beans_model/            → TFLite model and label files
-apps_screenshot/        → App screenshots
-README.md               → Project documentation
+- 📸 **Instagram:** https://instagram.com/me.cku
+- 📘 **Facebook:** https://www.facebook.com/deobert.paquio.5
+- 📧 **Email:** mickmickengalan123@gmail.com  
+- 💬 **Discord:** sirgalahad05#uknowme.ku
 
