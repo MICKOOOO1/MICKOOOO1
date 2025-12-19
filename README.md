@@ -147,7 +147,7 @@ Each row shows the bean class name, a short description, and a sample image from
 <td align="center"><img src="Beans_class/Soy_Beans.png" width="120"/></td>
 </tr>
 </table>
->
+
 
 ## 📱 Application Screenshots
 
