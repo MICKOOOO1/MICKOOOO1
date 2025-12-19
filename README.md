@@ -154,60 +154,87 @@ Beans widely used for tofu, soy milk, and other soy products.
 
 ## 📱 Application Screenshots
 
-### Main Page
-<p align="center">
-<img src="apps_screenshot/main_page.jpg" width="300"/>
-</p>
+## 🏠 Main Page & Scan Results
+
+<table>
+<tr>
+<td align="center">
+<b>Main Page</b><br><br>
+<img src="apps_screenshot/main_page.jpg" width="250"/><br><br>
+The Main Page is the starting point of the app. From here, users can navigate to the camera, upload images, view analytics, and access other features of Beans Scan.
+</td>
+
+<td align="center">
+<b>Scan Result (Camera)</b><br><br>
+<img src="apps_screenshot/scan_result_1.jpg" width="250"/><br><br>
+This screen displays the scan result after capturing an image using the camera, showing the predicted bean class and confidence level.
+</td>
+
+<td align="center">
+<b>Scan Result (Gallery)</b><br><br>
+<img src="apps_screenshot/scan_result.jpg" width="250"/><br><br>
+This screen shows the classification result after uploading an image from the gallery, including prediction details and confidence percentages.
+</td>
+</tr>
+</table>
+
 
 **The Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Beans Scan.
 
 ---
 
-### Other Screens
+## 📷 Capture or Upload Images & 📜 History
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="apps_screenshot/camera.jpg" width="300"/><br>
-<b>Camera Screen</b>
+
+<!-- LEFT BOX -->
+<td width="60%" align="center">
+<b>Capture or Upload Images</b><br><br>
+
+<img src="apps_screenshot/camera.jpg" width="220"/>
+<img src="apps_screenshot/gallery.jpg" width="220"/><br><br>
+
+Users can either take a new photo using the camera or upload an existing image from their device.  
+These images are then processed by the model for beans classification.
 </td>
 
-<td align="center">
-<img src="apps_screenshot/gallery.jpg" width="300"/><br>
-<b>Gallery Upload</b>
+<!-- RIGHT BOX -->
+<td width="40%" align="center">
+<b>Scan History</b><br><br>
+
+<img src="apps_screenshot/history.jpg" width="250"/><br><br>
+
+The History screen stores previous scan results, allowing users to review past classifications and confidence values.
 </td>
 
-</tr>
-<td align="center">
-<img src="apps_screenshot/scan_result_1.jpg" width="300"/><br>
-<b>Scan Result</b>
-</td>
-
-
-<td align="center">
-<img src="apps_screenshot/scan_result.jpg" width="300"/><br>
-<b>Scan Result</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="apps_screenshot/history.jpg" width="300"/><br>
-<b>History Page</b>
-</td>
-
-<tr>
-<td align="center">
-<img src="apps_screenshot/Analytics_1.jpg" width="300"/><br>
-<b>Analytics Page 1</b>
-</td>
-
-<td align="center">
-<img src="apps_screenshot/Analytics_2.jpg" width="300"/><br>
-<b>Analytics Page 2</b>
-</td>
 </tr>
 </table>
+
+## 📊 Analytics Screens
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+<b>Analytics Overview</b><br><br>
+
+<img src="apps_screenshot/Analytics_1.jpg" width="260"/><br><br>
+
+This screen provides a visual summary of detected bean classes, showing the number of scans per class.
+</td>
+
+<td width="50%" align="center">
+<b>Analytics Details</b><br><br>
+
+<img src="apps_screenshot/Analytics_2.jpg" width="260"/><br><br>
+
+This screen presents more detailed analytics, including confidence distribution and scan statistics.
+</td>
+
+</tr>
+</table>
+
 
 
 ## 🛠 Project Structure
