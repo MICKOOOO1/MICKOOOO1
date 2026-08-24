@@ -245,7 +245,7 @@ This screen presents more detailed analytics, including confidence distribution 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/me.cku">
+  <a href="https://instagram.com/minikaniko_ni_micko">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="https://facebook.com/deobert.paquio.5">
